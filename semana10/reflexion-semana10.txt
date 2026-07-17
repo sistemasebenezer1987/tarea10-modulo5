@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten planificar las tareas según su prioridad
+ y avanzar de forma ordenada mediante iteraciones. Esto facilita que el equipo evalúe el progreso, corrija errores y responda
+  rápidamente a las necesidades de los ciudadanos. Además, la automatización con herramientas como n8n reduce el tiempo dedicado
+   a tareas repetitivas, como el envío de notificaciones o recordatorios. El uso de Telegram mejora la comunicación entre
+    los integrantes del equipo, ya que permite recibir alertas y compartir información de manera rápida. 
+    Estas herramientas favorecen una mejor coordinación y un seguimiento más eficiente de los procesos. 
+    Sin embargo, es importante utilizarlas con responsabilidad para proteger la información personal y evitar la difusión de datos
+     sensibles. También es necesario mantener la supervisión humana para garantizar que las decisiones sean correctas y transparentes.
